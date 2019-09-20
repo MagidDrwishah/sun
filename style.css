@@ -1,0 +1,75 @@
+body{ 
+    background-color: black
+}
+#b2 {width: 100%;
+    height: 50%;
+     position: absolute;
+    top: 0%;
+    left: 0%;
+}
+#b1 {
+    position: absolute;
+    width: 390px;
+    height: 245px;
+    top: 10%;
+    left: 32%;
+}
+#b3{
+    position: absolute;
+    width: 445px;
+    height: 275px;
+    top: 50%;
+    left: 30%;
+}
+#p1{
+    color: aliceblue;
+    position: absolute;
+    top: 51%;
+    left: 5%;
+
+}
+#p2{
+    color: aliceblue;
+    position: absolute;
+    top: 51%;
+    left: 20%;
+
+}
+#p3{
+    color: black;
+    position: absolute;
+    top: 40%;
+    left: 63%;
+
+}
+#p4{
+    color: black;
+    position: absolute;
+    top: 40%;
+    left: 86%;
+
+}
+#div1{
+    color: black;
+    position: absolute;
+    top: 9%;
+    left: 4%;
+}
+#div2{
+    color: black;
+    position: absolute;
+    top: 9%;
+    left:4%;
+}
+#div3{
+    color: aliceblue;
+    position: absolute;
+    top: 52%;
+    left:65%;
+}
+#div4{
+    color: aliceblue;
+    position: absolute;
+    top: 52%;
+    left:65%;
+}
